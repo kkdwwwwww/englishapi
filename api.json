@@ -1,0 +1,148 @@
+{
+  "4-1": [
+    {
+      "id": "1",
+      "english": "horror",
+      "chinese": "驚恐",
+      "PofS": "n.",
+      "SYN": "terror"
+    },
+    {
+      "id": "2",
+      "english": "horrible",
+      "chinese": "可怕的",
+      "PofS": "adj.",
+      "SYN": "terrible"
+    },
+    {
+      "id": "3",
+      "english": "private",
+      "chinese": "私人的",
+      "PofS": "adj.",
+      "ANT": "public"
+    },
+    {
+      "id": "4",
+      "english": "privacy",
+      "chinese": "隱私",
+      "PofS": "n."
+    },
+    {
+      "id": "5",
+      "english": "stare",
+      "chinese": "盯著",
+      "PofS": "vi.",
+      "SYN": "gaze"
+    },
+    {
+      "id": "6",
+      "english": "tease",
+      "chinese": "嘲弄",
+      "PofS": "vt."
+    },
+    {
+      "id": "7",
+      "english": "costume",
+      "chinese": "服裝",
+      "PofS": "n.",
+      "SYN": "dress"
+    },
+    {
+      "id": "8",
+      "english": "mood",
+      "chinese": "心情",
+      "PofS": "n."
+    },
+    {
+      "id": "9",
+      "english": "overhear",
+      "chinese": "無意中聽到",
+      "PofS": "vt."
+    },
+    {
+      "id": "10",
+      "english": "principal",
+      "chinese": "校長",
+      "PofS": "n."
+    },
+    {
+      "id": "11",
+      "english": "principal",
+      "chinese": "主要的",
+      "PofS": "adj.",
+      "SYN": "major, chief",
+      "ANT": "minor"
+    },
+    {
+      "id": "12",
+      "english": "incident",
+      "chinese": "事件",
+      "PofS": "n.",
+      "SYN": "event"
+    },
+    {
+      "id": "13",
+      "english": "pretend",
+      "chinese": "假裝",
+      "PofS": "vi.",
+      "SYN": "fake"
+    },
+    {
+      "id": "14",
+      "english": "friendship",
+      "chinese": "友誼",
+      "PofS": "n."
+    },
+    {
+      "id": "15",
+      "english": "hurtful",
+      "chinese": "傷人的",
+      "PofS": "adj.",
+      "SYN": "harmful"
+    },
+    {
+      "id": "16",
+      "english": "defend",
+      "chinese": "防衛",
+      "PofS": "vt.",
+      "SYN": "protect, guard"
+    },
+    {
+      "id": "17",
+      "english": "defense",
+      "chinese": "防禦",
+      "PofS": "n.",
+      "SYN": "protection, guard"
+    },
+    {
+      "id": "18",
+      "english": "bully",
+      "chinese": "霸凌者",
+      "PofS": "n."
+    },
+    {
+      "id": "19",
+      "english": "bully",
+      "chinese": "霸凌",
+      "PofS": "vt."
+    },
+    {
+      "id": "20",
+      "english": "ceremony",
+      "chinese": "典禮",
+      "PofS": "n."
+    },
+    {
+      "id": "21",
+      "english": "observe",
+      "chinese": "觀察到",
+      "PofS": "vt."
+    },
+    {
+      "id": "22",
+      "english": "observation",
+      "chinese": "觀察",
+      "PofS": "n."
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+    "questionCount":10,
+    "questionList":[
+        {
+            "question":"在整數算術運算下，1+1=?",
+            "selections":[
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "answer":"2",
+            "explanation":"1+1在算術運算下等於2"
+        },
+        {
+            "question":"Flutter 框架最主要使用的語言是?",
+            "selections":[
+                "Dart",
+                "Kotlin",
+                "Swift",
+                "C++"
+            ],
+            "answer":"Dart",
+            "explanation":"Flutter 框架採用 Dart 語言做為開發時使用的語言"
+        },
+        {
+            "question":"Compose 框架最主要使用的語言是?",
+            "selections":[
+                "Dart",
+                "Kotlin",
+                "Swift",
+                "C++"
+            ],
+            "answer":"Kotlin",
+            "explanation":"Compose 框架採用 Kotlin 語言做為開發時使用的語言"
+        },
+        {
+            "question":"行動應用開發職種在勞動部技能競賽的職類編號是?",
+            "selections":[
+                "08",
+                "09",
+                "17",
+                "39"
+            ],
+            "answer":"08",
+            "explanation":"行動應用開發職種在勞動部技能競賽的職類編號是08"
+        },
+        {
+            "question":"國際技能競賽每幾年舉辦一次?",
+            "selections":[
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "answer":"2",
+            "explanation":"國際技能競賽每兩年舉辦一次"
+        },
+        {
+            "question":"「抽象」的概念可以用在哪個專業領域?",
+            "selections":[
+                "物件導向程式設計",
+                "程序導向程式設計",
+                "Functional Programming",
+                "我不知道"
+            ],
+            "answer":"物件導向程式設計",
+            "explanation":"物件導向程式設計裡的「抽象」概念，類似於 OOP 三大特性中的「封裝」"
+        },
+        {
+            "question":"三元運算子(statement ? true : false)不存在於下列哪個語言?",
+            "selections":[
+                "Kotlin",
+                "dart",
+                "JavaScript",
+                "PHP"
+            ],
+            "answer":"Kotlin",
+            "explanation":"三元運算子(statement ? true : false)不存在於Kotlin語言，它使用 if else 替代這個方便的東西"
+        },
+        {
+            "question":"行動應用開發職類 56 屆的裁判長叫做什麼(中文全名)?",
+            "selections":[
+                "DYH",
+                "黃燈陽",
+                "黃登揚",
+                "黃登洋"
+            ],
+            "answer":"黃登揚",
+            "explanation":"黃登揚是行動應用開發職類 56 屆的裁判長，他也是本職種51~55屆的裁判長"
+        },
+        {
+            "question":"第56屆全國技能競賽將在幾月底舉辦",
+            "selections":[
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "answer":"7",
+            "explanation":"第 56 屆全國技能競賽將在 7 月底 ~ 8 月初舉辦"
+        },
+        {
+            "question":"誰打Code最順?",
+            "selections":[
+                "Benson Lai",
+                "Percy Huang",
+                "Skull Lai",
+                "Peggy Tsai"
+            ],
+            "answer":"Benson Lai",
+            "explanation":"因為他叫賴品舜，所以打 Code 都很順"
+        }
+    ]
+}

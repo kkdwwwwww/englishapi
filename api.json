@@ -165,7 +165,161 @@
   ],
   "4-2":[],
   "4-3":[],
-  "4-4":[],
+  "4-4": [
+    {
+      "id": "1",
+      "english": "balance",
+      "chinese": "平衡",
+      "PofS": "n.[U, sing.]",
+      "ANT": "imbalance"
+    },
+    {
+      "id": "2",
+      "english": "balance",
+      "chinese": "保持平衡",
+      "PofS": "vi. vt."
+    },
+    {
+      "id": "3",
+      "english": "powerful",
+      "chinese": "強大的；強而有力的",
+      "PofS": "adj.",
+      "ANT": "powerless"
+    },
+    {
+      "id": "4",
+      "english": "link",
+      "chinese": "相關聯",
+      "PofS": "vt.",
+      "SYN": "connect, relate"
+    },
+    {
+      "id": "5",
+      "english": "link",
+      "chinese": "關聯；關係",
+      "PofS": "n.[C]",
+      "SYN": "connection, relationship"
+    },
+    {
+      "id": "6",
+      "english": "rewarding",
+      "chinese": "值得做的；有意義的",
+      "PofS": "adj.",
+      "SYN": "satisfying"
+    },
+    {
+      "id": "7",
+      "english": "reward",
+      "chinese": "獎賞；報酬",
+      "PofS": "n.[C]"
+    },
+    {
+      "id": "8",
+      "english": "release",
+      "chinese": "釋放；排放",
+      "PofS": "vt."
+    },
+    {
+      "id": "9",
+      "english": "release",
+      "chinese": "排放；釋放",
+      "PofS": "n.[U]"
+    },
+    {
+      "id": "10",
+      "english": "moreover",
+      "chinese": "此外",
+      "PofS": "adv.",
+      "SYN": "in addition, also, furthermore"
+    },
+    {
+      "id": "11",
+      "english": "participate",
+      "chinese": "參與",
+      "PofS": "vi."
+    },
+    {
+      "id": "12",
+      "english": "engaged",
+      "chinese": "忙於某事的",
+      "PofS": "adj."
+    },
+    {
+      "id": "13",
+      "english": "constant",
+      "chinese": "連續不斷的",
+      "PofS": "adj."
+    },
+    {
+      "id": "14",
+      "english": "frequent",
+      "chinese": "頻繁的",
+      "PofS": "adj."
+    },
+    {
+      "id": "15",
+      "english": "task",
+      "chinese": "任務",
+      "PofS": "n.[C]"
+    },
+    {
+      "id": "16",
+      "english": "depression",
+      "chinese": "沮喪；憂鬱",
+      "PofS": "n.[U]"
+    },
+    {
+      "id": "17",
+      "english": "ensure",
+      "chinese": "確保",
+      "PofS": "vt.",
+      "SYN": "make sure"
+    },
+    {
+      "id": "18",
+      "english": "expert",
+      "chinese": "專家",
+      "PofS": "n.[C]"
+    },
+    {
+      "id": "19",
+      "english": "recommend",
+      "chinese": "建議",
+      "PofS": "vt.",
+      "SYN": "suggest, advise"
+    },
+    {
+      "id": "20",
+      "english": "desire",
+      "chinese": "渴望",
+      "PofS": "n.[C]"
+    },
+    {
+      "id": "21",
+      "english": "desire",
+      "chinese": "渴望",
+      "PofS": "vt."
+    },
+    {
+      "id": "22",
+      "english": "pause",
+      "chinese": "暫停",
+      "PofS": "vi."
+    },
+    {
+      "id": "23",
+      "english": "pause",
+      "chinese": "暫停",
+      "PofS": "n.[C]"
+    },
+    {
+      "id": "24",
+      "english": "instant",
+      "chinese": "立即的",
+      "PofS": "adj.",
+      "SYN": "immediate"
+    }
+  ],
   "4-5":[],
   "4-6":[],
   "5-1":[],

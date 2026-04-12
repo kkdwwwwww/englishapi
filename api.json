@@ -164,7 +164,149 @@
     }
   ],
   "4-2":[],
-  "4-3":[],
+  "4-3": [
+    {
+      "id": "1",
+      "english": "educate",
+      "chinese": "教育",
+      "PofS": "vt."
+    },
+    {
+      "id": "2",
+      "english": "education",
+      "chinese": "教育",
+      "PofS": "n."
+    },
+    {
+      "id": "3",
+      "english": "seek",
+      "chinese": "尋求",
+      "PofS": "vt.",
+      "SYN": "look for"
+    },
+    {
+      "id": "4",
+      "english": "technology",
+      "chinese": "科技",
+      "PofS": "n."
+    },
+    {
+      "id": "5",
+      "english": "worth",
+      "chinese": "值得的；有價值的",
+      "PofS": "adj."
+    },
+    {
+      "id": "6",
+      "english": "conference",
+      "chinese": "會議",
+      "PofS": "n.",
+      "SYN": "meeting"
+    },
+    {
+      "id": "7",
+      "english": "present",
+      "chinese": "呈現；提出",
+      "PofS": "vt."
+    },
+    {
+      "id": "8",
+      "english": "presentation",
+      "chinese": "報告",
+      "PofS": "n.",
+      "SYN": "report"
+    },
+    {
+      "id": "9",
+      "english": "increasingly",
+      "chinese": "漸漸地",
+      "PofS": "adv."
+    },
+    {
+      "id": "10",
+      "english": "increase",
+      "chinese": "增加",
+      "PofS": "vi.",
+      "ANT": "decrease"
+    },
+    {
+      "id": "11",
+      "english": "broad",
+      "chinese": "寬廣的",
+      "PofS": "adj.",
+      "ANT": "narrow"
+    },
+    {
+      "id": "12",
+      "english": "numerous",
+      "chinese": "許多的",
+      "PofS": "adj.",
+      "SYN": "many, a lot of"
+    },
+    {
+      "id": "13",
+      "english": "celebrity",
+      "chinese": "名人",
+      "PofS": "n."
+    },
+    {
+      "id": "14",
+      "english": "audience",
+      "chinese": "觀眾；聽眾",
+      "PofS": "n."
+    },
+    {
+      "id": "15",
+      "english": "fascination",
+      "chinese": "著迷",
+      "PofS": "n."
+    },
+    {
+      "id": "16",
+      "english": "fascinate",
+      "chinese": "使著迷",
+      "PofS": "vt.",
+      "SYN": "charm"
+    },
+    {
+      "id": "17",
+      "english": "fiction",
+      "chinese": "虛構的事；小說",
+      "PofS": "n."
+    },
+    {
+      "id": "18",
+      "english": "suggest",
+      "chinese": "建議",
+      "PofS": "vt.",
+      "SYN": "advise, recommend"
+    },
+    {
+      "id": "19",
+      "english": "suggestion",
+      "chinese": "建議",
+      "PofS": "n."
+    },
+    {
+      "id": "20",
+      "english": "government",
+      "chinese": "政府",
+      "PofS": "n."
+    },
+    {
+      "id": "21",
+      "english": "monitor",
+      "chinese": "監控",
+      "PofS": "vt.",
+      "SYN": "track"
+    },
+    {
+      "id": "22",
+      "english": "control",
+      "chinese": "控制",
+      "PofS": "vt."
+    }
+  ],
   "4-4": [
     {
       "id": "1",

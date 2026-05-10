@@ -462,7 +462,141 @@
       "SYN": "immediate"
     }
   ],
-  "4-5":[],
+  "4-5": [
+    {
+      "id": "1",
+      "english": "mode",
+      "chinese": "模式",
+      "PofS": "n."
+    },
+    {
+      "id": "2",
+      "english": "captain",
+      "chinese": "機長",
+      "PofS": "n."
+    },
+    {
+      "id": "3",
+      "english": "shortly",
+      "chinese": "不久；很快",
+      "PofS": "adv."
+    },
+    {
+      "id": "4",
+      "english": "shorten",
+      "chinese": "使變短",
+      "PofS": "vt."
+    },
+    {
+      "id": "5",
+      "english": "fault",
+      "chinese": "過錯",
+      "PofS": "n."
+    },
+    {
+      "id": "6",
+      "english": "decrease",
+      "chinese": "減少",
+      "PofS": "vi."
+    },
+    {
+      "id": "7",
+      "english": "humidity",
+      "chinese": "濕度",
+      "PofS": "n.",
+      "SYN": "wetness"
+    },
+    {
+      "id": "8",
+      "english": "humid",
+      "chinese": "潮濕的",
+      "PofS": "adj.",
+      "SYN": "wet, moist"
+    },
+    {
+      "id": "9",
+      "english": "pressure",
+      "chinese": "壓力",
+      "PofS": "n."
+    },
+    {
+      "id": "10",
+      "english": "sensitive",
+      "chinese": "敏感的",
+      "PofS": "adj."
+    },
+    {
+      "id": "11",
+      "english": "enable",
+      "chinese": "使能夠",
+      "PofS": "vt.",
+      "SYN": "allow"
+    },
+    {
+      "id": "12",
+      "english": "distinguish",
+      "chinese": "區分；辨別",
+      "PofS": "vt."
+    },
+    {
+      "id": "13",
+      "english": "accurately",
+      "chinese": "精確地",
+      "PofS": "adv.",
+      "SYN": "correctly, precisely",
+      "ANT": "inaccurately"
+    },
+    {
+      "id": "14",
+      "english": "accurate",
+      "chinese": "精確的",
+      "PofS": "adj."
+    },
+    {
+      "id": "15",
+      "english": "blame",
+      "chinese": "責備；歸咎於",
+      "PofS": "vt."
+    },
+    {
+      "id": "16",
+      "english": "affect",
+      "chinese": "影響",
+      "PofS": "vt.",
+      "SYN": "influence"
+    },
+    {
+      "id": "17",
+      "english": "distract",
+      "chinese": "使分心",
+      "PofS": "vt."
+    },
+    {
+      "id": "18",
+      "english": "condition",
+      "chinese": "狀況；情況",
+      "PofS": "n."
+    },
+    {
+      "id": "19",
+      "english": "propose",
+      "chinese": "提議",
+      "PofS": "vt.",
+      "SYN": "suggest"
+    },
+    {
+      "id": "20",
+      "english": "proposal",
+      "chinese": "提案",
+      "PofS": "n."
+    },
+    {
+      "id": "21",
+      "english": "spray",
+      "chinese": "噴霧；噴灑",
+      "PofS": "vt."
+    }
+  ],
   "4-6":[],
   "5-1":[],
   "5-2":[],

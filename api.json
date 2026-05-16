@@ -496,50 +496,56 @@
     {
       "id": "6",
       "english": "decrease",
-      "chinese": "減少",
-      "PofS": "vi."
+      "chinese": "降低；減少",
+      "PofS": "n."
     },
     {
       "id": "7",
-      "english": "humidity",
-      "chinese": "濕度",
-      "PofS": "n.",
-      "SYN": "wetness"
+      "english": "decrease",
+      "chinese": "降低；減少",
+      "PofS": "vt. vi."
     },
     {
       "id": "8",
+      "english": "humidity",
+      "chinese": "濕度；潮濕",
+      "PofS": "n.",
+      "SYN": "wetness, moisture"
+    },
+    {
+      "id": "9",
       "english": "humid",
       "chinese": "潮濕的",
       "PofS": "adj.",
       "SYN": "wet, moist"
     },
     {
-      "id": "9",
+      "id": "10",
       "english": "pressure",
       "chinese": "壓力",
       "PofS": "n."
     },
     {
-      "id": "10",
+      "id": "11",
       "english": "sensitive",
       "chinese": "敏感的",
       "PofS": "adj."
     },
     {
-      "id": "11",
+      "id": "12",
       "english": "enable",
       "chinese": "使能夠",
       "PofS": "vt.",
       "SYN": "allow"
     },
     {
-      "id": "12",
+      "id": "13",
       "english": "distinguish",
       "chinese": "區分；辨別",
-      "PofS": "vt."
+      "PofS": "vt. vi."
     },
     {
-      "id": "13",
+      "id": "14",
       "english": "accurately",
       "chinese": "精確地",
       "PofS": "adv.",
@@ -547,54 +553,60 @@
       "ANT": "inaccurately"
     },
     {
-      "id": "14",
+      "id": "15",
       "english": "accurate",
       "chinese": "精確的",
       "PofS": "adj."
     },
     {
-      "id": "15",
+      "id": "16",
       "english": "blame",
       "chinese": "責備；歸咎於",
       "PofS": "vt."
     },
     {
-      "id": "16",
+      "id": "17",
       "english": "affect",
       "chinese": "影響",
       "PofS": "vt.",
       "SYN": "influence"
     },
     {
-      "id": "17",
+      "id": "18",
       "english": "distract",
       "chinese": "使分心",
       "PofS": "vt."
     },
     {
-      "id": "18",
+      "id": "19",
       "english": "condition",
       "chinese": "狀況；情況",
       "PofS": "n."
     },
     {
-      "id": "19",
+      "id": "20",
       "english": "propose",
       "chinese": "提議",
       "PofS": "vt.",
       "SYN": "suggest"
     },
     {
-      "id": "20",
+      "id": "21",
       "english": "proposal",
       "chinese": "提案",
       "PofS": "n."
     },
     {
-      "id": "21",
+      "id": "22",
       "english": "spray",
-      "chinese": "噴霧；噴灑",
-      "PofS": "vt."
+      "chinese": "噴劑",
+      "PofS": "n."
+    },
+    {
+      "id": "23",
+      "english": "spray",
+      "chinese": "噴灑",
+      "PofS": "vt. vi."
     }
   ],
   "4-6":[],

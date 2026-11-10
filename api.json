@@ -163,7 +163,339 @@
       "PofS": "n."
     }
   ],
-  "4-2":[],
+  {
+  "4-2": [
+    {
+      "id": "1",
+      "english": "advertise",
+      "chinese": "廣告",
+      "PofS": "v."
+    },
+    {
+      "id": "2",
+      "english": "advertisement",
+      "chinese": "廣告",
+      "PofS": "n.",
+      "SYN": "ad"
+    },
+    {
+      "id": "3",
+      "english": "political",
+      "chinese": "政治的",
+      "PofS": "adj."
+    },
+    {
+      "id": "4",
+      "english": "politician",
+      "chinese": "政治人物；政客",
+      "PofS": "n."
+    },
+    {
+      "id": "5",
+      "english": "exhibit",
+      "chinese": "展覽；展示",
+      "PofS": "v.",
+      "SYN": "display, show"
+    },
+    {
+      "id": "6",
+      "english": "exhibit",
+      "chinese": "展品",
+      "PofS": "n."
+    },
+    {
+      "id": "7",
+      "english": "exhibition",
+      "chinese": "展覽會",
+      "PofS": "n.",
+      "SYN": "exposition"
+    },
+    {
+      "id": "8",
+      "english": "restrict",
+      "chinese": "限制",
+      "PofS": "v.",
+      "SYN": "limit"
+    },
+    {
+      "id": "9",
+      "english": "restriction",
+      "chinese": "限制",
+      "PofS": "n.",
+      "SYN": "limit"
+    },
+    {
+      "id": "10",
+      "english": "determine",
+      "chinese": "決定；下決心做",
+      "PofS": "v.",
+      "SYN": "decide"
+    },
+    {
+      "id": "11",
+      "english": "determined",
+      "chinese": "下決心的；堅定的",
+      "PofS": "adj.",
+      "SYN": "resolute"
+    },
+    {
+      "id": "12",
+      "english": "determination",
+      "chinese": "決心；堅定",
+      "PofS": "n.",
+      "SYN": "resolution"
+    },
+    {
+      "id": "13",
+      "english": "impress",
+      "chinese": "給……留下深刻印象",
+      "PofS": "v."
+    },
+    {
+      "id": "14",
+      "english": "impression",
+      "chinese": "印象",
+      "PofS": "n."
+    },
+    {
+      "id": "15",
+      "english": "impressive",
+      "chinese": "令人印象深刻的",
+      "PofS": "adj."
+    },
+    {
+      "id": "16",
+      "english": "permit",
+      "chinese": "許可；允許",
+      "PofS": "v.",
+      "SYN": "allow"
+    },
+    {
+      "id": "17",
+      "english": "permission",
+      "chinese": "許可；准許",
+      "PofS": "n.",
+      "SYN": "consent"
+    },
+    {
+      "id": "18",
+      "english": "quote",
+      "chinese": "引用；引述",
+      "PofS": "v.",
+      "SYN": "cite"
+    },
+    {
+      "id": "19",
+      "english": "quotation",
+      "chinese": "引語；引述",
+      "PofS": "n.",
+      "SYN": "citation"
+    },
+    {
+      "id": "20",
+      "english": "reveal",
+      "chinese": "暴露；揭露",
+      "PofS": "v.",
+      "SYN": "disclose, expose, show"
+    },
+    {
+      "id": "21",
+      "english": "strength",
+      "chinese": "力氣；優勢；強項",
+      "PofS": "n.",
+      "SYN": "power, advantage",
+      "ANT": "weakness"
+    },
+    {
+      "id": "22",
+      "english": "strengthen",
+      "chinese": "加強",
+      "PofS": "v.",
+      "SYN": "enforce",
+      "ANT": "weaken"
+    },
+    {
+      "id": "23",
+      "english": "surround",
+      "chinese": "圍繞",
+      "PofS": "v.",
+      "SYN": "circle"
+    },
+    {
+      "id": "24",
+      "english": "surroundings",
+      "chinese": "環境",
+      "PofS": "n."
+    },
+    {
+      "id": "25",
+      "english": "significant",
+      "chinese": "重要的；意義深長的",
+      "PofS": "adj.",
+      "SYN": "important, meaningful"
+    },
+    {
+      "id": "26",
+      "english": "hint",
+      "chinese": "暗示",
+      "PofS": "v.",
+      "SYN": "imply"
+    },
+    {
+      "id": "27",
+      "english": "hint",
+      "chinese": "暗示",
+      "PofS": "n.",
+      "SYN": "clue"
+    },
+    {
+      "id": "28",
+      "english": "dairy",
+      "chinese": "酪農場",
+      "PofS": "n."
+    },
+    {
+      "id": "29",
+      "english": "dairy",
+      "chinese": "牛奶（製）的",
+      "PofS": "adj."
+    },
+    {
+      "id": "30",
+      "english": "dizzy",
+      "chinese": "昏眩的",
+      "PofS": "adj."
+    },
+    {
+      "id": "31",
+      "english": "remote",
+      "chinese": "遙遠的；偏僻的",
+      "PofS": "adj.",
+      "SYN": "distant, faraway",
+      "ANT": "near"
+    },
+    {
+      "id": "32",
+      "english": "hollow",
+      "chinese": "挖空",
+      "PofS": "v."
+    },
+    {
+      "id": "33",
+      "english": "hollow",
+      "chinese": "空的",
+      "PofS": "adj.",
+      "SYN": "empty"
+    },
+    {
+      "id": "34",
+      "english": "misery",
+      "chinese": "痛苦；不幸",
+      "PofS": "n."
+    },
+    {
+      "id": "35",
+      "english": "element",
+      "chinese": "元素；成分",
+      "PofS": "n.",
+      "SYN": "component, part"
+    },
+    {
+      "id": "36",
+      "english": "elevator",
+      "chinese": "電梯",
+      "PofS": "n.",
+      "SYN": "lift"
+    },
+    {
+      "id": "37",
+      "english": "muscle",
+      "chinese": "肌肉",
+      "PofS": "n."
+    },
+    {
+      "id": "38",
+      "english": "mystery",
+      "chinese": "神秘事件；難以理解的事物",
+      "PofS": "n."
+    },
+    {
+      "id": "39",
+      "english": "crew",
+      "chinese": "全體船員；全體機員",
+      "PofS": "n."
+    },
+    {
+      "id": "40",
+      "english": "fuel",
+      "chinese": "給……加燃料",
+      "PofS": "v."
+    },
+    {
+      "id": "41",
+      "english": "fuel",
+      "chinese": "燃料",
+      "PofS": "n."
+    },
+    {
+      "id": "42",
+      "english": "lung",
+      "chinese": "肺",
+      "PofS": "n."
+    },
+    {
+      "id": "43",
+      "english": "election",
+      "chinese": "選舉",
+      "PofS": "n."
+    },
+    {
+      "id": "44",
+      "english": "export",
+      "chinese": "輸出；出口",
+      "PofS": "v.",
+      "SYN": "import"
+    },
+    {
+      "id": "45",
+      "english": "export",
+      "chinese": "出口",
+      "PofS": "n.",
+      "SYN": "import"
+    },
+    {
+      "id": "46",
+      "english": "arrest",
+      "chinese": "逮捕",
+      "PofS": "v., n.",
+      "SYN": "capture"
+    },
+    {
+      "id": "47",
+      "english": "polar",
+      "chinese": "極地的",
+      "PofS": "adj."
+    },
+    {
+      "id": "48",
+      "english": "pole",
+      "chinese": "（行星的）極；柱、桿",
+      "PofS": "n."
+    },
+    {
+      "id": "49",
+      "english": "violent",
+      "chinese": "猛烈的；兇暴的",
+      "PofS": "adj.",
+      "SYN": "fierce"
+    },
+    {
+      "id": "50",
+      "english": "violence",
+      "chinese": "暴力",
+      "PofS": "n."
+    }
+  ],
   "4-3": [
     {
       "id": "1",

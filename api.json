@@ -20,1294 +20,446 @@
   "4-1": [
     {
       "id": "1",
-      "english": "behave",
-      "chinese": "表現；行為舉止",
-      "PofS": "v.",
-      "SYN": "act"
+      "english": "horror",
+      "chinese": "驚恐",
+      "PofS": "n.",
+      "SYN": "terror"
     },
     {
       "id": "2",
-      "english": "behavior",
-      "chinese": "行為；舉止",
-      "PofS": "n.",
-      "SYN": "action, conduct"
+      "english": "horrible",
+      "chinese": "可怕的",
+      "PofS": "adj.",
+      "SYN": "terrible"
     },
     {
       "id": "3",
-      "english": "accident",
-      "chinese": "意外",
-      "PofS": "n."
+      "english": "private",
+      "chinese": "私人的",
+      "PofS": "adj.",
+      "ANT": "public"
     },
     {
       "id": "4",
-      "english": "accidental",
-      "chinese": "意外的",
-      "PofS": "adj."
-    },
-    {
-      "id": "5",
-      "english": "confident",
-      "chinese": "自信的",
-      "PofS": "adj."
-    },
-    {
-      "id": "6",
-      "english": "confidence",
-      "chinese": "信心",
-      "PofS": "n.",
-      "SYN": "belief, faith"
-    },
-    {
-      "id": "7",
-      "english": "maintain",
-      "chinese": "維修；保養",
-      "PofS": "v.",
-      "SYN": "preserve"
-    },
-    {
-      "id": "8",
-      "english": "maintenance",
-      "chinese": "維修；保養",
-      "PofS": "n.",
-      "SYN": "preservation"
-    },
-    {
-      "id": "9",
-      "english": "appeal",
-      "chinese": "吸引",
-      "PofS": "v.",
-      "SYN": "attract, draw"
-    },
-    {
-      "id": "10",
-      "english": "appealing",
-      "chinese": "有吸引力的",
-      "PofS": "adj.",
-      "SYN": "attractive, charming"
-    },
-    {
-      "id": "11",
-      "english": "mission",
-      "chinese": "任務",
-      "PofS": "n.",
-      "SYN": "duty, task"
-    },
-    {
-      "id": "12",
-      "english": "vitamin",
-      "chinese": "維他命",
-      "PofS": "n."
-    },
-    {
-      "id": "13",
-      "english": "fortune",
-      "chinese": "財富；運氣",
-      "PofS": "n.",
-      "SYN": "luck",
-      "ANT": "misfortune"
-    },
-    {
-      "id": "14",
-      "english": "fortunate",
-      "chinese": "幸運的",
-      "PofS": "adj.",
-      "SYN": "lucky",
-      "ANT": "unfortunate, unlucky"
-    },
-    {
-      "id": "15",
-      "english": "structure",
-      "chinese": "組織；建造",
-      "PofS": "v."
-    },
-    {
-      "id": "16",
-      "english": "structure",
-      "chinese": "結構",
-      "PofS": "n."
-    },
-    {
-      "id": "17",
-      "english": "import",
-      "chinese": "進口",
-      "PofS": "v.",
-      "ANT": "export"
-    },
-    {
-      "id": "18",
-      "english": "import",
-      "chinese": "進口；輸入",
-      "PofS": "n.",
-      "ANT": "export"
-    },
-    {
-      "id": "19",
-      "english": "innocent",
-      "chinese": "天真的；清白的",
-      "PofS": "adj.",
-      "SYN": "naive, pure",
-      "ANT": "guilty"
-    },
-    {
-      "id": "20",
-      "english": "chill",
-      "chinese": "寒氣；風寒",
-      "PofS": "n."
-    },
-    {
-      "id": "21",
-      "english": "chilly",
-      "chinese": "冷颼颼的；冷淡的",
-      "PofS": "adj."
-    },
-    {
-      "id": "22",
-      "english": "precious",
-      "chinese": "珍貴的；貴重的",
-      "PofS": "adj.",
-      "SYN": "valuable",
-      "ANT": "worthless"
-    },
-    {
-      "id": "23",
-      "english": "envious",
-      "chinese": "嫉妒的；羨慕的",
-      "PofS": "adj.",
-      "SYN": "jealous"
-    },
-    {
-      "id": "24",
-      "english": "envy",
-      "chinese": "嫉妒；羨慕",
-      "PofS": "v., n.",
-      "SYN": "jealousy"
-    },
-    {
-      "id": "25",
-      "english": "faith",
-      "chinese": "信仰；信心",
-      "PofS": "n.",
-      "SYN": "belief"
-    },
-    {
-      "id": "26",
-      "english": "faithful",
-      "chinese": "忠誠的",
-      "PofS": "adj.",
-      "SYN": "loyal"
-    },
-    {
-      "id": "27",
-      "english": "postpone",
-      "chinese": "延期",
-      "PofS": "v.",
-      "SYN": "delay, put off"
-    },
-    {
-      "id": "28",
-      "english": "dim",
-      "chinese": "暗淡的；模糊的",
-      "PofS": "adj."
-    },
-    {
-      "id": "29",
-      "english": "dim",
-      "chinese": "變暗淡",
-      "PofS": "v."
-    },
-    {
-      "id": "30",
-      "english": "property",
-      "chinese": "財產",
-      "PofS": "n.",
-      "SYN": "possession"
-    },
-    {
-      "id": "31",
-      "english": "anxiety",
-      "chinese": "焦慮；擔心",
-      "PofS": "n."
-    },
-    {
-      "id": "32",
-      "english": "anxious",
-      "chinese": "焦慮的；急切的",
-      "PofS": "adj.",
-      "SYN": "eager, nervous"
-    },
-    {
-      "id": "33",
-      "english": "murder",
-      "chinese": "殺害；謀殺",
-      "PofS": "v., n.",
-      "SYN": "kill"
-    },
-    {
-      "id": "34",
-      "english": "murderer",
-      "chinese": "兇手",
-      "PofS": "n.",
-      "SYN": "killer"
-    },
-    {
-      "id": "35",
-      "english": "committee",
-      "chinese": "委員會",
-      "PofS": "n."
-    },
-    {
-      "id": "36",
-      "english": "moisture",
-      "chinese": "溼氣；水分",
-      "PofS": "n.",
-      "SYN": "humidity"
-    },
-    {
-      "id": "37",
-      "english": "optimistic",
-      "chinese": "樂觀的",
-      "PofS": "adj.",
-      "ANT": "pessimistic"
-    },
-    {
-      "id": "38",
-      "english": "vacant",
-      "chinese": "空的；空虛的",
-      "PofS": "adj.",
-      "SYN": "empty",
-      "ANT": "full, occupied"
-    },
-    {
-      "id": "39",
-      "english": "vacancy",
-      "chinese": "空處；空缺",
-      "PofS": "n."
-    },
-    {
-      "id": "40",
-      "english": "poverty",
-      "chinese": "貧窮",
-      "PofS": "n.",
-      "ANT": "wealth"
-    },
-    {
-      "id": "41",
-      "english": "capable",
-      "chinese": "有能力的",
-      "PofS": "adj.",
-      "SYN": "able",
-      "ANT": "incapable, unable"
-    },
-    {
-      "id": "42",
-      "english": "capacity",
-      "chinese": "容量；能力",
-      "PofS": "n.",
-      "SYN": "volume; ability, capability"
-    },
-    {
-      "id": "43",
-      "english": "perform",
-      "chinese": "表演；執行",
-      "PofS": "v.",
-      "SYN": "do, carry out"
-    },
-    {
-      "id": "44",
-      "english": "performance",
-      "chinese": "表演；表現",
-      "PofS": "n."
-    },
-    {
-      "id": "45",
-      "english": "conclude",
-      "chinese": "下結論",
-      "PofS": "v."
-    },
-    {
-      "id": "46",
-      "english": "conclusion",
-      "chinese": "結論；結局",
-      "PofS": "n."
-    },
-    {
-      "id": "47",
-      "english": "humankind",
-      "chinese": "人類",
-      "PofS": "n.",
-      "SYN": "humans, human beings, the human race, mankind"
-    },
-    {
-      "id": "48",
-      "english": "conscious",
-      "chinese": "有知覺的；意識到的",
-      "PofS": "adj.",
-      "SYN": "aware"
-    },
-    {
-      "id": "49",
-      "english": "consciously",
-      "chinese": "有意識地；有自覺地",
-      "PofS": "adv.",
-      "ANT": "unconsciously"
-    },
-    {
-      "id": "50",
-      "english": "unconscious",
-      "chinese": "失去知覺的；未發覺的",
-      "PofS": "adj.",
-      "SYN": "senseless"
-    }
-  ],
-  "4-2": [
-    {
-      "id": "1",
-      "english": "advertise",
-      "chinese": "廣告",
-      "PofS": "v."
-    },
-    {
-      "id": "2",
-      "english": "advertisement",
-      "chinese": "廣告",
-      "PofS": "n.",
-      "SYN": "ad"
-    },
-    {
-      "id": "3",
-      "english": "political",
-      "chinese": "政治的",
-      "PofS": "adj."
-    },
-    {
-      "id": "4",
-      "english": "politician",
-      "chinese": "政治人物；政客",
+      "english": "privacy",
+      "chinese": "隱私",
       "PofS": "n."
     },
     {
       "id": "5",
-      "english": "exhibit",
-      "chinese": "展覽；展示",
-      "PofS": "v.",
-      "SYN": "display, show"
+      "english": "stare",
+      "chinese": "盯著",
+      "PofS": "vi.",
+      "SYN": "gaze"
     },
     {
       "id": "6",
-      "english": "exhibit",
-      "chinese": "展品",
-      "PofS": "n."
+      "english": "tease",
+      "chinese": "嘲弄",
+      "PofS": "vt."
     },
     {
       "id": "7",
-      "english": "exhibition",
-      "chinese": "展覽會",
+      "english": "costume",
+      "chinese": "服裝",
       "PofS": "n.",
-      "SYN": "exposition"
+      "SYN": "dress"
     },
     {
       "id": "8",
-      "english": "restrict",
-      "chinese": "限制",
-      "PofS": "v.",
-      "SYN": "limit"
-    },
-    {
-      "id": "9",
-      "english": "restriction",
-      "chinese": "限制",
-      "PofS": "n.",
-      "SYN": "limit"
-    },
-    {
-      "id": "10",
-      "english": "determine",
-      "chinese": "決定；下決心做",
-      "PofS": "v.",
-      "SYN": "decide"
-    },
-    {
-      "id": "11",
-      "english": "determined",
-      "chinese": "下決心的；堅定的",
-      "PofS": "adj.",
-      "SYN": "resolute"
-    },
-    {
-      "id": "12",
-      "english": "determination",
-      "chinese": "決心；堅定",
-      "PofS": "n.",
-      "SYN": "resolution"
-    },
-    {
-      "id": "13",
-      "english": "impress",
-      "chinese": "給……留下深刻印象",
-      "PofS": "v."
-    },
-    {
-      "id": "14",
-      "english": "impression",
-      "chinese": "印象",
-      "PofS": "n."
-    },
-    {
-      "id": "15",
-      "english": "impressive",
-      "chinese": "令人印象深刻的",
-      "PofS": "adj."
-    },
-    {
-      "id": "16",
-      "english": "permit",
-      "chinese": "許可；允許",
-      "PofS": "v.",
-      "SYN": "allow"
-    },
-    {
-      "id": "17",
-      "english": "permission",
-      "chinese": "許可；准許",
-      "PofS": "n.",
-      "SYN": "consent"
-    },
-    {
-      "id": "18",
-      "english": "quote",
-      "chinese": "引用；引述",
-      "PofS": "v.",
-      "SYN": "cite"
-    },
-    {
-      "id": "19",
-      "english": "quotation",
-      "chinese": "引語；引述",
-      "PofS": "n.",
-      "SYN": "citation"
-    },
-    {
-      "id": "20",
-      "english": "reveal",
-      "chinese": "暴露；揭露",
-      "PofS": "v.",
-      "SYN": "disclose, expose, show"
-    },
-    {
-      "id": "21",
-      "english": "strength",
-      "chinese": "力氣；優勢；強項",
-      "PofS": "n.",
-      "SYN": "power, advantage",
-      "ANT": "weakness"
-    },
-    {
-      "id": "22",
-      "english": "strengthen",
-      "chinese": "加強",
-      "PofS": "v.",
-      "SYN": "enforce",
-      "ANT": "weaken"
-    },
-    {
-      "id": "23",
-      "english": "surround",
-      "chinese": "圍繞",
-      "PofS": "v.",
-      "SYN": "circle"
-    },
-    {
-      "id": "24",
-      "english": "surroundings",
-      "chinese": "環境",
-      "PofS": "n."
-    },
-    {
-      "id": "25",
-      "english": "significant",
-      "chinese": "重要的；意義深長的",
-      "PofS": "adj.",
-      "SYN": "important, meaningful"
-    },
-    {
-      "id": "26",
-      "english": "hint",
-      "chinese": "暗示",
-      "PofS": "v.",
-      "SYN": "imply"
-    },
-    {
-      "id": "27",
-      "english": "hint",
-      "chinese": "暗示",
-      "PofS": "n.",
-      "SYN": "clue"
-    },
-    {
-      "id": "28",
-      "english": "dairy",
-      "chinese": "酪農場",
-      "PofS": "n."
-    },
-    {
-      "id": "29",
-      "english": "dairy",
-      "chinese": "牛奶（製）的",
-      "PofS": "adj."
-    },
-    {
-      "id": "30",
-      "english": "dizzy",
-      "chinese": "昏眩的",
-      "PofS": "adj."
-    },
-    {
-      "id": "31",
-      "english": "remote",
-      "chinese": "遙遠的；偏僻的",
-      "PofS": "adj.",
-      "SYN": "distant, faraway",
-      "ANT": "near"
-    },
-    {
-      "id": "32",
-      "english": "hollow",
-      "chinese": "挖空",
-      "PofS": "v."
-    },
-    {
-      "id": "33",
-      "english": "hollow",
-      "chinese": "空的",
-      "PofS": "adj.",
-      "SYN": "empty"
-    },
-    {
-      "id": "34",
-      "english": "misery",
-      "chinese": "痛苦；不幸",
-      "PofS": "n."
-    },
-    {
-      "id": "35",
-      "english": "element",
-      "chinese": "元素；成分",
-      "PofS": "n.",
-      "SYN": "component, part"
-    },
-    {
-      "id": "36",
-      "english": "elevator",
-      "chinese": "電梯",
-      "PofS": "n.",
-      "SYN": "lift"
-    },
-    {
-      "id": "37",
-      "english": "muscle",
-      "chinese": "肌肉",
-      "PofS": "n."
-    },
-    {
-      "id": "38",
-      "english": "mystery",
-      "chinese": "神秘事件；難以理解的事物",
-      "PofS": "n."
-    },
-    {
-      "id": "39",
-      "english": "crew",
-      "chinese": "全體船員；全體機員",
-      "PofS": "n."
-    },
-    {
-      "id": "40",
-      "english": "fuel",
-      "chinese": "給……加燃料",
-      "PofS": "v."
-    },
-    {
-      "id": "41",
-      "english": "fuel",
-      "chinese": "燃料",
-      "PofS": "n."
-    },
-    {
-      "id": "42",
-      "english": "lung",
-      "chinese": "肺",
-      "PofS": "n."
-    },
-    {
-      "id": "43",
-      "english": "election",
-      "chinese": "選舉",
-      "PofS": "n."
-    },
-    {
-      "id": "44",
-      "english": "export",
-      "chinese": "輸出；出口",
-      "PofS": "v.",
-      "SYN": "import"
-    },
-    {
-      "id": "45",
-      "english": "export",
-      "chinese": "出口",
-      "PofS": "n.",
-      "SYN": "import"
-    },
-    {
-      "id": "46",
-      "english": "arrest",
-      "chinese": "逮捕",
-      "PofS": "v., n.",
-      "SYN": "capture"
-    },
-    {
-      "id": "47",
-      "english": "polar",
-      "chinese": "極地的",
-      "PofS": "adj."
-    },
-    {
-      "id": "48",
-      "english": "pole",
-      "chinese": "（行星的）極；柱、桿",
-      "PofS": "n."
-    },
-    {
-      "id": "49",
-      "english": "violent",
-      "chinese": "猛烈的；兇暴的",
-      "PofS": "adj.",
-      "SYN": "fierce"
-    },
-    {
-      "id": "50",
-      "english": "violence",
-      "chinese": "暴力",
-      "PofS": "n."
-    }
-  ],
-  "4-3": [
-    {
-      "id": "1",
-      "english": "lifestyle",
-      "chinese": "生活方式",
-      "PofS": "n."
-    },
-    {
-      "id": "2",
-      "english": "worldwide",
-      "chinese": "全世界的",
-      "PofS": "adj.",
-      "SYN": "global, international"
-    },
-    {
-      "id": "3",
-      "english": "worldwide",
-      "chinese": "全世界地",
-      "PofS": "adv.",
-      "SYN": "all over the world, globally"
-    },
-    {
-      "id": "4",
-      "english": "disappointed",
-      "chinese": "感到失望的",
-      "PofS": "adj."
-    },
-    {
-      "id": "5",
-      "english": "exact",
-      "chinese": "精確的",
-      "PofS": "adj.",
-      "SYN": "precise"
-    },
-    {
-      "id": "6",
-      "english": "exactly",
-      "chinese": "確切地；精確地",
-      "PofS": "adv.",
-      "SYN": "precisely"
-    },
-    {
-      "id": "7",
-      "english": "university",
-      "chinese": "大學",
-      "PofS": "n.",
-      "SYN": "college"
-    },
-    {
-      "id": "8",
-      "english": "population",
-      "chinese": "人口",
+      "english": "mood",
+      "chinese": "心情",
       "PofS": "n."
     },
     {
       "id": "9",
-      "english": "department",
-      "chinese": "科系；部門",
-      "PofS": "n."
+      "english": "overhear",
+      "chinese": "無意中聽到",
+      "PofS": "vt."
     },
     {
       "id": "10",
-      "english": "melt",
-      "chinese": "融化；熔化",
-      "PofS": "v."
-    },
-    {
-      "id": "11",
-      "english": "confuse",
-      "chinese": "使困惑",
-      "PofS": "v.",
-      "SYN": "puzzle"
-    },
-    {
-      "id": "12",
-      "english": "confusing",
-      "chinese": "令人困惑的",
-      "PofS": "adj."
-    },
-    {
-      "id": "13",
-      "english": "eventually",
-      "chinese": "最後；終於",
-      "PofS": "adv.",
-      "SYN": "finally, ultimately, at last, in the end"
-    },
-    {
-      "id": "14",
-      "english": "conversation",
-      "chinese": "對話；談話",
-      "PofS": "n.",
-      "SYN": "dialogue"
-    },
-    {
-      "id": "15",
-      "english": "actually",
-      "chinese": "事實上；實際上",
-      "PofS": "adv.",
-      "SYN": "in fact, as a matter of fact"
-    },
-    {
-      "id": "16",
-      "english": "diving",
-      "chinese": "潛水",
-      "PofS": "n.",
-      "SYN": "dive"
-    },
-    {
-      "id": "17",
-      "english": "principle",
-      "chinese": "原則；準則",
-      "PofS": "n.",
-      "SYN": "rule"
-    },
-    {
-      "id": "18",
-      "english": "primary",
-      "chinese": "主要的；初等的",
-      "PofS": "adj.",
-      "SYN": "chief, main"
-    },
-    {
-      "id": "19",
-      "english": "primarily",
-      "chinese": "主要地；首要地",
-      "PofS": "adv.",
-      "SYN": "chiefly, mainly"
-    },
-    {
-      "id": "20",
-      "english": "terrorist",
-      "chinese": "恐怖分子",
-      "PofS": "n."
-    },
-    {
-      "id": "21",
-      "english": "homemade",
-      "chinese": "自製的；家裡做的",
-      "PofS": "adj.",
-      "ANT": "store-bought"
-    },
-    {
-      "id": "22",
-      "english": "friendship",
-      "chinese": "友誼",
-      "PofS": "n."
-    },
-    {
-      "id": "23",
-      "english": "participate",
-      "chinese": "參與",
-      "PofS": "v.",
-      "SYN": "take part"
-    },
-    {
-      "id": "24",
-      "english": "participant",
-      "chinese": "參與者",
-      "PofS": "n."
-    },
-    {
-      "id": "25",
-      "english": "charming",
-      "chinese": "迷人的；有魅力的",
-      "PofS": "adj.",
-      "SYN": "appealing, attractive"
-    },
-    {
-      "id": "26",
-      "english": "instrument",
-      "chinese": "樂器；儀器",
-      "PofS": "n.",
-      "SYN": "device"
-    },
-    {
-      "id": "27",
       "english": "principal",
       "chinese": "校長",
       "PofS": "n."
     },
     {
-      "id": "28",
+      "id": "11",
       "english": "principal",
       "chinese": "主要的",
+      "PofS": "adj.",
+      "SYN": "major, chief",
+      "ANT": "minor"
+    },
+    {
+      "id": "12",
+      "english": "incident",
+      "chinese": "事件",
+      "PofS": "n.",
+      "SYN": "event"
+    },
+    {
+      "id": "13",
+      "english": "pretend",
+      "chinese": "假裝",
+      "PofS": "vi.",
+      "SYN": "fake"
+    },
+    {
+      "id": "14",
+      "english": "friendship",
+      "chinese": "友誼",
+      "PofS": "n."
+    },
+    {
+      "id": "15",
+      "english": "hurtful",
+      "chinese": "傷人的",
+      "PofS": "adj.",
+      "SYN": "harmful"
+    },
+    {
+      "id": "16",
+      "english": "defend",
+      "chinese": "防衛",
+      "PofS": "vt.",
+      "SYN": "protect, guard"
+    },
+    {
+      "id": "17",
+      "english": "defense",
+      "chinese": "防禦",
+      "PofS": "n.",
+      "SYN": "protection, guard"
+    },
+    {
+      "id": "18",
+      "english": "bully",
+      "chinese": "霸凌者",
+      "PofS": "n."
+    },
+    {
+      "id": "19",
+      "english": "bully",
+      "chinese": "霸凌",
+      "PofS": "vt."
+    },
+    {
+      "id": "20",
+      "english": "ceremony",
+      "chinese": "典禮",
+      "PofS": "n."
+    },
+    {
+      "id": "21",
+      "english": "observe",
+      "chinese": "觀察到",
+      "PofS": "vt."
+    },
+    {
+      "id": "22",
+      "english": "observation",
+      "chinese": "觀察",
+      "PofS": "n."
+    }
+  ],
+  "4-2":[],
+  "4-3": [
+    {
+      "id": "1",
+      "english": "educate",
+      "chinese": "教育",
+      "PofS": "vt."
+    },
+    {
+      "id": "2",
+      "english": "education",
+      "chinese": "教育",
+      "PofS": "n."
+    },
+    {
+      "id": "3",
+      "english": "seek",
+      "chinese": "尋求",
+      "PofS": "vt.",
+      "SYN": "look for"
+    },
+    {
+      "id": "4",
+      "english": "technology",
+      "chinese": "科技",
+      "PofS": "n."
+    },
+    {
+      "id": "5",
+      "english": "worth",
+      "chinese": "值得的；有價值的",
       "PofS": "adj."
     },
     {
-      "id": "29",
-      "english": "strict",
-      "chinese": "嚴格的",
-      "PofS": "adj.",
-      "SYN": "rigid, severe"
+      "id": "6",
+      "english": "conference",
+      "chinese": "會議",
+      "PofS": "n.",
+      "SYN": "meeting"
     },
     {
-      "id": "30",
-      "english": "strictly",
-      "chinese": "嚴格地",
+      "id": "7",
+      "english": "present",
+      "chinese": "呈現；提出",
+      "PofS": "vt."
+    },
+    {
+      "id": "8",
+      "english": "presentation",
+      "chinese": "報告",
+      "PofS": "n.",
+      "SYN": "report"
+    },
+    {
+      "id": "9",
+      "english": "increasingly",
+      "chinese": "漸漸地",
       "PofS": "adv."
     },
     {
-      "id": "31",
-      "english": "classical",
-      "chinese": "古典的",
-      "PofS": "adj."
+      "id": "10",
+      "english": "increase",
+      "chinese": "增加",
+      "PofS": "vi.",
+      "ANT": "decrease"
     },
     {
-      "id": "32",
-      "english": "normal",
-      "chinese": "正常的",
+      "id": "11",
+      "english": "broad",
+      "chinese": "寬廣的",
       "PofS": "adj.",
-      "SYN": "usual",
-      "ANT": "abnormal, unusual"
+      "ANT": "narrow"
     },
     {
-      "id": "33",
-      "english": "attitude",
-      "chinese": "態度",
-      "PofS": "n."
-    },
-    {
-      "id": "34",
-      "english": "individual",
-      "chinese": "個人",
-      "PofS": "n."
-    },
-    {
-      "id": "35",
-      "english": "individual",
-      "chinese": "個別的",
-      "PofS": "adj."
-    },
-    {
-      "id": "36",
-      "english": "instant",
-      "chinese": "立即的；即溶的",
+      "id": "12",
+      "english": "numerous",
+      "chinese": "許多的",
       "PofS": "adj.",
-      "SYN": "immediate"
+      "SYN": "many, a lot of"
     },
     {
-      "id": "37",
-      "english": "instant",
-      "chinese": "頃刻",
+      "id": "13",
+      "english": "celebrity",
+      "chinese": "名人",
       "PofS": "n."
     },
     {
-      "id": "38",
-      "english": "instantly",
-      "chinese": "立即；馬上",
-      "PofS": "adv.",
-      "SYN": "immediately, right away, right now"
-    },
-    {
-      "id": "39",
-      "english": "ambulance",
-      "chinese": "救護車",
+      "id": "14",
+      "english": "audience",
+      "chinese": "觀眾；聽眾",
       "PofS": "n."
     },
     {
-      "id": "40",
-      "english": "pollute",
-      "chinese": "汙染",
-      "PofS": "v."
+      "id": "15",
+      "english": "fascination",
+      "chinese": "著迷",
+      "PofS": "n."
     },
     {
-      "id": "41",
-      "english": "pollution",
-      "chinese": "汙染",
+      "id": "16",
+      "english": "fascinate",
+      "chinese": "使著迷",
+      "PofS": "vt.",
+      "SYN": "charm"
+    },
+    {
+      "id": "17",
+      "english": "fiction",
+      "chinese": "虛構的事；小說",
       "PofS": "n."
+    },
+    {
+      "id": "18",
+      "english": "suggest",
+      "chinese": "建議",
+      "PofS": "vt.",
+      "SYN": "advise, recommend"
+    },
+    {
+      "id": "19",
+      "english": "suggestion",
+      "chinese": "建議",
+      "PofS": "n."
+    },
+    {
+      "id": "20",
+      "english": "government",
+      "chinese": "政府",
+      "PofS": "n."
+    },
+    {
+      "id": "21",
+      "english": "monitor",
+      "chinese": "監控",
+      "PofS": "vt.",
+      "SYN": "track"
+    },
+    {
+      "id": "22",
+      "english": "control",
+      "chinese": "控制",
+      "PofS": "vt."
     }
   ],
   "4-4": [
     {
       "id": "1",
-      "english": "represent",
-      "chinese": "代表",
-      "PofS": "v.",
-      "SYN": "symbolize, stand for"
+      "english": "balance",
+      "chinese": "平衡",
+      "PofS": "n.[U, sing.]",
+      "ANT": "imbalance"
     },
     {
       "id": "2",
-      "english": "representative",
-      "chinese": "代表人（物）",
-      "PofS": "n.",
-      "SYN": "agent"
+      "english": "balance",
+      "chinese": "保持平衡",
+      "PofS": "vi. vt."
     },
     {
       "id": "3",
-      "english": "representative",
-      "chinese": "代表性的",
-      "PofS": "adj."
+      "english": "powerful",
+      "chinese": "強大的；強而有力的",
+      "PofS": "adj.",
+      "ANT": "powerless"
     },
     {
       "id": "4",
-      "english": "vision",
-      "chinese": "視野；視力",
-      "PofS": "n.",
-      "SYN": "sight"
+      "english": "link",
+      "chinese": "相關聯",
+      "PofS": "vt.",
+      "SYN": "connect, relate"
     },
     {
       "id": "5",
-      "english": "visible",
-      "chinese": "可看見的",
-      "PofS": "adj.",
-      "ANT": "invisible"
+      "english": "link",
+      "chinese": "關聯；關係",
+      "PofS": "n.[C]",
+      "SYN": "connection, relationship"
     },
     {
       "id": "6",
-      "english": "visualize",
-      "chinese": "想像",
-      "PofS": "v.",
-      "SYN": "imagine, picture"
+      "english": "rewarding",
+      "chinese": "值得做的；有意義的",
+      "PofS": "adj.",
+      "SYN": "satisfying"
     },
     {
       "id": "7",
-      "english": "scholar",
-      "chinese": "學者",
-      "PofS": "n."
+      "english": "reward",
+      "chinese": "獎賞；報酬",
+      "PofS": "n.[C]"
     },
     {
       "id": "8",
-      "english": "scholarship",
-      "chinese": "獎學金",
-      "PofS": "n."
+      "english": "release",
+      "chinese": "釋放；排放",
+      "PofS": "vt."
     },
     {
       "id": "9",
-      "english": "clue",
-      "chinese": "暗示；線索",
-      "PofS": "n.",
-      "SYN": "hint, sign"
+      "english": "release",
+      "chinese": "排放；釋放",
+      "PofS": "n.[U]"
     },
     {
       "id": "10",
-      "english": "pilot",
-      "chinese": "駕駛",
-      "PofS": "v.",
-      "SYN": "conduct"
+      "english": "moreover",
+      "chinese": "此外",
+      "PofS": "adv.",
+      "SYN": "in addition, also, furthermore"
     },
     {
       "id": "11",
-      "english": "pilot",
-      "chinese": "飛行員；舵手",
-      "PofS": "n."
+      "english": "participate",
+      "chinese": "參與",
+      "PofS": "vi."
     },
     {
       "id": "12",
-      "english": "glance",
-      "chinese": "瞥見",
-      "PofS": "v., n.",
-      "SYN": "glimpse"
+      "english": "engaged",
+      "chinese": "忙於某事的",
+      "PofS": "adj."
     },
     {
       "id": "13",
-      "english": "pause",
-      "chinese": "暫停；停頓",
-      "PofS": "v., n.",
-      "SYN": "halt"
+      "english": "constant",
+      "chinese": "連續不斷的",
+      "PofS": "adj."
     },
     {
       "id": "14",
-      "english": "slave",
-      "chinese": "做苦工；像奴隸般地工作",
-      "PofS": "v."
+      "english": "frequent",
+      "chinese": "頻繁的",
+      "PofS": "adj."
     },
     {
       "id": "15",
-      "english": "slave",
-      "chinese": "奴隸",
-      "PofS": "n."
+      "english": "task",
+      "chinese": "任務",
+      "PofS": "n.[C]"
     },
     {
       "id": "16",
-      "english": "mess",
-      "chinese": "弄亂；混亂",
-      "PofS": "v., n.",
-      "SYN": "disorder"
+      "english": "depression",
+      "chinese": "沮喪；憂鬱",
+      "PofS": "n.[U]"
     },
     {
       "id": "17",
-      "english": "yell",
-      "chinese": "吼叫",
-      "PofS": "v., n.",
-      "SYN": "scream, shout"
+      "english": "ensure",
+      "chinese": "確保",
+      "PofS": "vt.",
+      "SYN": "make sure"
     },
     {
       "id": "18",
-      "english": "dust",
-      "chinese": "除去……的灰塵",
-      "PofS": "v."
+      "english": "expert",
+      "chinese": "專家",
+      "PofS": "n.[C]"
     },
     {
       "id": "19",
-      "english": "dust",
-      "chinese": "灰塵",
-      "PofS": "n."
+      "english": "recommend",
+      "chinese": "建議",
+      "PofS": "vt.",
+      "SYN": "suggest, advise"
     },
     {
       "id": "20",
-      "english": "dusty",
-      "chinese": "滿是灰塵的",
-      "PofS": "adj."
+      "english": "desire",
+      "chinese": "渴望",
+      "PofS": "n.[C]"
     },
     {
       "id": "21",
-      "english": "rough",
-      "chinese": "粗糙的；粗暴的；難受的；粗略的",
-      "PofS": "adj.",
-      "SYN": "uneven; rude; difficult; approximate"
+      "english": "desire",
+      "chinese": "渴望",
+      "PofS": "vt."
     },
     {
       "id": "22",
-      "english": "survey",
-      "chinese": "調查",
-      "PofS": "v.",
-      "SYN": "inspect"
+      "english": "pause",
+      "chinese": "暫停",
+      "PofS": "vi."
     },
     {
       "id": "23",
-      "english": "survey",
-      "chinese": "調查",
-      "PofS": "n.",
-      "SYN": "poll"
+      "english": "pause",
+      "chinese": "暫停",
+      "PofS": "n.[C]"
     },
     {
       "id": "24",
-      "english": "horrible",
-      "chinese": "可怕的",
+      "english": "instant",
+      "chinese": "立即的",
       "PofS": "adj.",
-      "SYN": "awful, frightful, terrible"
-    },
-    {
-      "id": "25",
-      "english": "naked",
-      "chinese": "赤裸的；無遮蔽的",
-      "PofS": "adj.",
-      "SYN": "bare, nude"
-    },
-    {
-      "id": "26",
-      "english": "pour",
-      "chinese": "傾倒；下傾盆大雨",
-      "PofS": "v."
-    },
-    {
-      "id": "27",
-      "english": "grocery",
-      "chinese": "食品雜貨；雜貨店",
-      "PofS": "n."
-    },
-    {
-      "id": "28",
-      "english": "microwave",
-      "chinese": "微波",
-      "PofS": "v."
-    },
-    {
-      "id": "29",
-      "english": "microwave",
-      "chinese": "微波；微波爐",
-      "PofS": "n."
-    },
-    {
-      "id": "30",
-      "english": "opposite",
-      "chinese": "相反",
-      "PofS": "n.",
-      "SYN": "reverse",
-      "ANT": "same"
-    },
-    {
-      "id": "31",
-      "english": "opposite",
-      "chinese": "相反的",
-      "PofS": "adj.",
-      "SYN": "reverse",
-      "ANT": "same"
-    },
-    {
-      "id": "32",
-      "english": "opposite",
-      "chinese": "在……對面",
-      "PofS": "prep."
-    },
-    {
-      "id": "33",
-      "english": "oppose",
-      "chinese": "反對",
-      "PofS": "v.",
-      "SYN": "object"
-    },
-    {
-      "id": "34",
-      "english": "emperor",
-      "chinese": "皇帝",
-      "PofS": "n."
-    },
-    {
-      "id": "35",
-      "english": "inferior",
-      "chinese": "低等的；較差的",
-      "PofS": "adj.",
-      "ANT": "superior"
-    },
-    {
-      "id": "36",
-      "english": "ambition",
-      "chinese": "野心；企圖心",
-      "PofS": "n."
-    },
-    {
-      "id": "37",
-      "english": "ambitious",
-      "chinese": "有野心的",
-      "PofS": "adj."
-    },
-    {
-      "id": "38",
-      "english": "moral",
-      "chinese": "道德教訓",
-      "PofS": "n."
-    },
-    {
-      "id": "39",
-      "english": "moral",
-      "chinese": "道德的",
-      "PofS": "adj."
-    },
-    {
-      "id": "40",
-      "english": "immoral",
-      "chinese": "不道德的",
-      "PofS": "adj."
-    },
-    {
-      "id": "41",
-      "english": "observe",
-      "chinese": "觀察",
-      "PofS": "v.",
-      "SYN": "perceive"
-    },
-    {
-      "id": "42",
-      "english": "observation",
-      "chinese": "觀察",
-      "PofS": "n."
-    },
-    {
-      "id": "43",
-      "english": "confirm",
-      "chinese": "證實；確認",
-      "PofS": "v."
-    },
-    {
-      "id": "44",
-      "english": "immediate",
-      "chinese": "立刻的；即刻的",
-      "PofS": "adj.",
-      "SYN": "instant"
-    },
-    {
-      "id": "45",
-      "english": "immediately",
-      "chinese": "立即；馬上",
-      "PofS": "adv.",
-      "SYN": "instantly, at once, in no time, right away"
-    },
-    {
-      "id": "46",
-      "english": "casual",
-      "chinese": "非正式的；漫不經心的",
-      "PofS": "adj.",
-      "SYN": "informal",
-      "ANT": "formal"
-    },
-    {
-      "id": "47",
-      "english": "casualty",
-      "chinese": "死傷人數",
-      "PofS": "n."
-    },
-    {
-      "id": "48",
-      "english": "compete",
-      "chinese": "競爭",
-      "PofS": "v.",
-      "SYN": "contest"
-    },
-    {
-      "id": "49",
-      "english": "competitive",
-      "chinese": "有競爭力的",
-      "PofS": "adj."
-    },
-    {
-      "id": "50",
-      "english": "competitor",
-      "chinese": "競爭者",
-      "PofS": "n."
-    },
-    {
-      "id": "51",
-      "english": "competition",
-      "chinese": "競爭；比賽",
-      "PofS": "n.",
-      "SYN": "contest, game, match"
-    },
-    {
-      "id": "52",
-      "english": "democracy",
-      "chinese": "民主（制度、國家、作風）",
-      "PofS": "n."
-    },
-    {
-      "id": "53",
-      "english": "strategy",
-      "chinese": "策略",
-      "PofS": "n."
+      "SYN": "immediate"
     }
   ],
   "4-5": [

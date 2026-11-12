@@ -694,144 +694,271 @@
   "4-3": [
     {
       "id": "1",
-      "english": "educate",
-      "chinese": "教育",
-      "PofS": "vt."
+      "english": "lifestyle",
+      "chinese": "生活方式",
+      "PofS": "n."
     },
     {
       "id": "2",
-      "english": "education",
-      "chinese": "教育",
-      "PofS": "n."
+      "english": "worldwide",
+      "chinese": "全世界的",
+      "PofS": "adj.",
+      "SYN": "global, international"
     },
     {
       "id": "3",
-      "english": "seek",
-      "chinese": "尋求",
-      "PofS": "vt.",
-      "SYN": "look for"
+      "english": "worldwide",
+      "chinese": "全世界地",
+      "PofS": "adv.",
+      "SYN": "all over the world, globally"
     },
     {
       "id": "4",
-      "english": "technology",
-      "chinese": "科技",
-      "PofS": "n."
-    },
-    {
-      "id": "5",
-      "english": "worth",
-      "chinese": "值得的；有價值的",
+      "english": "disappointed",
+      "chinese": "感到失望的",
       "PofS": "adj."
     },
     {
+      "id": "5",
+      "english": "exact",
+      "chinese": "精確的",
+      "PofS": "adj.",
+      "SYN": "precise"
+    },
+    {
       "id": "6",
-      "english": "conference",
-      "chinese": "會議",
-      "PofS": "n.",
-      "SYN": "meeting"
+      "english": "exactly",
+      "chinese": "確切地；精確地",
+      "PofS": "adv.",
+      "SYN": "precisely"
     },
     {
       "id": "7",
-      "english": "present",
-      "chinese": "呈現；提出",
-      "PofS": "vt."
+      "english": "university",
+      "chinese": "大學",
+      "PofS": "n.",
+      "SYN": "college"
     },
     {
       "id": "8",
-      "english": "presentation",
-      "chinese": "報告",
-      "PofS": "n.",
-      "SYN": "report"
+      "english": "population",
+      "chinese": "人口",
+      "PofS": "n."
     },
     {
       "id": "9",
-      "english": "increasingly",
-      "chinese": "漸漸地",
-      "PofS": "adv."
+      "english": "department",
+      "chinese": "科系；部門",
+      "PofS": "n."
     },
     {
       "id": "10",
-      "english": "increase",
-      "chinese": "增加",
-      "PofS": "vi.",
-      "ANT": "decrease"
+      "english": "melt",
+      "chinese": "融化；熔化",
+      "PofS": "v."
     },
     {
       "id": "11",
-      "english": "broad",
-      "chinese": "寬廣的",
-      "PofS": "adj.",
-      "ANT": "narrow"
+      "english": "confuse",
+      "chinese": "使困惑",
+      "PofS": "v.",
+      "SYN": "puzzle"
     },
     {
       "id": "12",
-      "english": "numerous",
-      "chinese": "許多的",
-      "PofS": "adj.",
-      "SYN": "many, a lot of"
+      "english": "confusing",
+      "chinese": "令人困惑的",
+      "PofS": "adj."
     },
     {
       "id": "13",
-      "english": "celebrity",
-      "chinese": "名人",
-      "PofS": "n."
+      "english": "eventually",
+      "chinese": "最後；終於",
+      "PofS": "adv.",
+      "SYN": "finally, ultimately, at last, in the end"
     },
     {
       "id": "14",
-      "english": "audience",
-      "chinese": "觀眾；聽眾",
-      "PofS": "n."
+      "english": "conversation",
+      "chinese": "對話；談話",
+      "PofS": "n.",
+      "SYN": "dialogue"
     },
     {
       "id": "15",
-      "english": "fascination",
-      "chinese": "著迷",
-      "PofS": "n."
+      "english": "actually",
+      "chinese": "事實上；實際上",
+      "PofS": "adv.",
+      "SYN": "in fact, as a matter of fact"
     },
     {
       "id": "16",
-      "english": "fascinate",
-      "chinese": "使著迷",
-      "PofS": "vt.",
-      "SYN": "charm"
+      "english": "diving",
+      "chinese": "潛水",
+      "PofS": "n.",
+      "SYN": "dive"
     },
     {
       "id": "17",
-      "english": "fiction",
-      "chinese": "虛構的事；小說",
-      "PofS": "n."
+      "english": "principle",
+      "chinese": "原則；準則",
+      "PofS": "n.",
+      "SYN": "rule"
     },
     {
       "id": "18",
-      "english": "suggest",
-      "chinese": "建議",
-      "PofS": "vt.",
-      "SYN": "advise, recommend"
+      "english": "primary",
+      "chinese": "主要的；初等的",
+      "PofS": "adj.",
+      "SYN": "chief, main"
     },
     {
       "id": "19",
-      "english": "suggestion",
-      "chinese": "建議",
-      "PofS": "n."
+      "english": "primarily",
+      "chinese": "主要地；首要地",
+      "PofS": "adv.",
+      "SYN": "chiefly, mainly"
     },
     {
       "id": "20",
-      "english": "government",
-      "chinese": "政府",
+      "english": "terrorist",
+      "chinese": "恐怖分子",
       "PofS": "n."
     },
     {
       "id": "21",
-      "english": "monitor",
-      "chinese": "監控",
-      "PofS": "vt.",
-      "SYN": "track"
+      "english": "homemade",
+      "chinese": "自製的；家裡做的",
+      "PofS": "adj.",
+      "ANT": "store-bought"
     },
     {
       "id": "22",
-      "english": "control",
-      "chinese": "控制",
-      "PofS": "vt."
+      "english": "friendship",
+      "chinese": "友誼",
+      "PofS": "n."
+    },
+    {
+      "id": "23",
+      "english": "participate",
+      "chinese": "參與",
+      "PofS": "v.",
+      "SYN": "take part"
+    },
+    {
+      "id": "24",
+      "english": "participant",
+      "chinese": "參與者",
+      "PofS": "n."
+    },
+    {
+      "id": "25",
+      "english": "charming",
+      "chinese": "迷人的；有魅力的",
+      "PofS": "adj.",
+      "SYN": "appealing, attractive"
+    },
+    {
+      "id": "26",
+      "english": "instrument",
+      "chinese": "樂器；儀器",
+      "PofS": "n.",
+      "SYN": "device"
+    },
+    {
+      "id": "27",
+      "english": "principal",
+      "chinese": "校長",
+      "PofS": "n."
+    },
+    {
+      "id": "28",
+      "english": "principal",
+      "chinese": "主要的",
+      "PofS": "adj."
+    },
+    {
+      "id": "29",
+      "english": "strict",
+      "chinese": "嚴格的",
+      "PofS": "adj.",
+      "SYN": "rigid, severe"
+    },
+    {
+      "id": "30",
+      "english": "strictly",
+      "chinese": "嚴格地",
+      "PofS": "adv."
+    },
+    {
+      "id": "31",
+      "english": "classical",
+      "chinese": "古典的",
+      "PofS": "adj."
+    },
+    {
+      "id": "32",
+      "english": "normal",
+      "chinese": "正常的",
+      "PofS": "adj.",
+      "SYN": "usual",
+      "ANT": "abnormal, unusual"
+    },
+    {
+      "id": "33",
+      "english": "attitude",
+      "chinese": "態度",
+      "PofS": "n."
+    },
+    {
+      "id": "34",
+      "english": "individual",
+      "chinese": "個人",
+      "PofS": "n."
+    },
+    {
+      "id": "35",
+      "english": "individual",
+      "chinese": "個別的",
+      "PofS": "adj."
+    },
+    {
+      "id": "36",
+      "english": "instant",
+      "chinese": "立即的；即溶的",
+      "PofS": "adj.",
+      "SYN": "immediate"
+    },
+    {
+      "id": "37",
+      "english": "instant",
+      "chinese": "頃刻",
+      "PofS": "n."
+    },
+    {
+      "id": "38",
+      "english": "instantly",
+      "chinese": "立即；馬上",
+      "PofS": "adv.",
+      "SYN": "immediately, right away, right now"
+    },
+    {
+      "id": "39",
+      "english": "ambulance",
+      "chinese": "救護車",
+      "PofS": "n."
+    },
+    {
+      "id": "40",
+      "english": "pollute",
+      "chinese": "汙染",
+      "PofS": "v."
+    },
+    {
+      "id": "41",
+      "english": "pollution",
+      "chinese": "汙染",
+      "PofS": "n."
     }
   ],
   "4-4": [

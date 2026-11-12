@@ -20,147 +20,343 @@
   "4-1": [
     {
       "id": "1",
-      "english": "horror",
-      "chinese": "驚恐",
-      "PofS": "n.",
-      "SYN": "terror"
+      "english": "behave",
+      "chinese": "表現；行為舉止",
+      "PofS": "v.",
+      "SYN": "act"
     },
     {
       "id": "2",
-      "english": "horrible",
-      "chinese": "可怕的",
-      "PofS": "adj.",
-      "SYN": "terrible"
+      "english": "behavior",
+      "chinese": "行為；舉止",
+      "PofS": "n.",
+      "SYN": "action, conduct"
     },
     {
       "id": "3",
-      "english": "private",
-      "chinese": "私人的",
-      "PofS": "adj.",
-      "ANT": "public"
+      "english": "accident",
+      "chinese": "意外",
+      "PofS": "n."
     },
     {
       "id": "4",
-      "english": "privacy",
-      "chinese": "隱私",
-      "PofS": "n."
+      "english": "accidental",
+      "chinese": "意外的",
+      "PofS": "adj."
     },
     {
       "id": "5",
-      "english": "stare",
-      "chinese": "盯著",
-      "PofS": "vi.",
-      "SYN": "gaze"
+      "english": "confident",
+      "chinese": "自信的",
+      "PofS": "adj."
     },
     {
       "id": "6",
-      "english": "tease",
-      "chinese": "嘲弄",
-      "PofS": "vt."
+      "english": "confidence",
+      "chinese": "信心",
+      "PofS": "n.",
+      "SYN": "belief, faith"
     },
     {
       "id": "7",
-      "english": "costume",
-      "chinese": "服裝",
-      "PofS": "n.",
-      "SYN": "dress"
+      "english": "maintain",
+      "chinese": "維修；保養",
+      "PofS": "v.",
+      "SYN": "preserve"
     },
     {
       "id": "8",
-      "english": "mood",
-      "chinese": "心情",
-      "PofS": "n."
+      "english": "maintenance",
+      "chinese": "維修；保養",
+      "PofS": "n.",
+      "SYN": "preservation"
     },
     {
       "id": "9",
-      "english": "overhear",
-      "chinese": "無意中聽到",
-      "PofS": "vt."
+      "english": "appeal",
+      "chinese": "吸引",
+      "PofS": "v.",
+      "SYN": "attract, draw"
     },
     {
       "id": "10",
-      "english": "principal",
-      "chinese": "校長",
-      "PofS": "n."
+      "english": "appealing",
+      "chinese": "有吸引力的",
+      "PofS": "adj.",
+      "SYN": "attractive, charming"
     },
     {
       "id": "11",
-      "english": "principal",
-      "chinese": "主要的",
-      "PofS": "adj.",
-      "SYN": "major, chief",
-      "ANT": "minor"
+      "english": "mission",
+      "chinese": "任務",
+      "PofS": "n.",
+      "SYN": "duty, task"
     },
     {
       "id": "12",
-      "english": "incident",
-      "chinese": "事件",
-      "PofS": "n.",
-      "SYN": "event"
+      "english": "vitamin",
+      "chinese": "維他命",
+      "PofS": "n."
     },
     {
       "id": "13",
-      "english": "pretend",
-      "chinese": "假裝",
-      "PofS": "vi.",
-      "SYN": "fake"
+      "english": "fortune",
+      "chinese": "財富；運氣",
+      "PofS": "n.",
+      "SYN": "luck",
+      "ANT": "misfortune"
     },
     {
       "id": "14",
-      "english": "friendship",
-      "chinese": "友誼",
-      "PofS": "n."
+      "english": "fortunate",
+      "chinese": "幸運的",
+      "PofS": "adj.",
+      "SYN": "lucky",
+      "ANT": "unfortunate, unlucky"
     },
     {
       "id": "15",
-      "english": "hurtful",
-      "chinese": "傷人的",
-      "PofS": "adj.",
-      "SYN": "harmful"
+      "english": "structure",
+      "chinese": "組織；建造",
+      "PofS": "v."
     },
     {
       "id": "16",
-      "english": "defend",
-      "chinese": "防衛",
-      "PofS": "vt.",
-      "SYN": "protect, guard"
-    },
-    {
-      "id": "17",
-      "english": "defense",
-      "chinese": "防禦",
-      "PofS": "n.",
-      "SYN": "protection, guard"
-    },
-    {
-      "id": "18",
-      "english": "bully",
-      "chinese": "霸凌者",
+      "english": "structure",
+      "chinese": "結構",
       "PofS": "n."
     },
     {
+      "id": "17",
+      "english": "import",
+      "chinese": "進口",
+      "PofS": "v.",
+      "ANT": "export"
+    },
+    {
+      "id": "18",
+      "english": "import",
+      "chinese": "進口；輸入",
+      "PofS": "n.",
+      "ANT": "export"
+    },
+    {
       "id": "19",
-      "english": "bully",
-      "chinese": "霸凌",
-      "PofS": "vt."
+      "english": "innocent",
+      "chinese": "天真的；清白的",
+      "PofS": "adj.",
+      "SYN": "naive, pure",
+      "ANT": "guilty"
     },
     {
       "id": "20",
-      "english": "ceremony",
-      "chinese": "典禮",
+      "english": "chill",
+      "chinese": "寒氣；風寒",
       "PofS": "n."
     },
     {
       "id": "21",
-      "english": "observe",
-      "chinese": "觀察到",
-      "PofS": "vt."
+      "english": "chilly",
+      "chinese": "冷颼颼的；冷淡的",
+      "PofS": "adj."
     },
     {
       "id": "22",
-      "english": "observation",
-      "chinese": "觀察",
+      "english": "precious",
+      "chinese": "珍貴的；貴重的",
+      "PofS": "adj.",
+      "SYN": "valuable",
+      "ANT": "worthless"
+    },
+    {
+      "id": "23",
+      "english": "envious",
+      "chinese": "嫉妒的；羨慕的",
+      "PofS": "adj.",
+      "SYN": "jealous"
+    },
+    {
+      "id": "24",
+      "english": "envy",
+      "chinese": "嫉妒；羨慕",
+      "PofS": "v., n.",
+      "SYN": "jealousy"
+    },
+    {
+      "id": "25",
+      "english": "faith",
+      "chinese": "信仰；信心",
+      "PofS": "n.",
+      "SYN": "belief"
+    },
+    {
+      "id": "26",
+      "english": "faithful",
+      "chinese": "忠誠的",
+      "PofS": "adj.",
+      "SYN": "loyal"
+    },
+    {
+      "id": "27",
+      "english": "postpone",
+      "chinese": "延期",
+      "PofS": "v.",
+      "SYN": "delay, put off"
+    },
+    {
+      "id": "28",
+      "english": "dim",
+      "chinese": "暗淡的；模糊的",
+      "PofS": "adj."
+    },
+    {
+      "id": "29",
+      "english": "dim",
+      "chinese": "變暗淡",
+      "PofS": "v."
+    },
+    {
+      "id": "30",
+      "english": "property",
+      "chinese": "財產",
+      "PofS": "n.",
+      "SYN": "possession"
+    },
+    {
+      "id": "31",
+      "english": "anxiety",
+      "chinese": "焦慮；擔心",
       "PofS": "n."
+    },
+    {
+      "id": "32",
+      "english": "anxious",
+      "chinese": "焦慮的；急切的",
+      "PofS": "adj.",
+      "SYN": "eager, nervous"
+    },
+    {
+      "id": "33",
+      "english": "murder",
+      "chinese": "殺害；謀殺",
+      "PofS": "v., n.",
+      "SYN": "kill"
+    },
+    {
+      "id": "34",
+      "english": "murderer",
+      "chinese": "兇手",
+      "PofS": "n.",
+      "SYN": "killer"
+    },
+    {
+      "id": "35",
+      "english": "committee",
+      "chinese": "委員會",
+      "PofS": "n."
+    },
+    {
+      "id": "36",
+      "english": "moisture",
+      "chinese": "溼氣；水分",
+      "PofS": "n.",
+      "SYN": "humidity"
+    },
+    {
+      "id": "37",
+      "english": "optimistic",
+      "chinese": "樂觀的",
+      "PofS": "adj.",
+      "ANT": "pessimistic"
+    },
+    {
+      "id": "38",
+      "english": "vacant",
+      "chinese": "空的；空虛的",
+      "PofS": "adj.",
+      "SYN": "empty",
+      "ANT": "full, occupied"
+    },
+    {
+      "id": "39",
+      "english": "vacancy",
+      "chinese": "空處；空缺",
+      "PofS": "n."
+    },
+    {
+      "id": "40",
+      "english": "poverty",
+      "chinese": "貧窮",
+      "PofS": "n.",
+      "ANT": "wealth"
+    },
+    {
+      "id": "41",
+      "english": "capable",
+      "chinese": "有能力的",
+      "PofS": "adj.",
+      "SYN": "able",
+      "ANT": "incapable, unable"
+    },
+    {
+      "id": "42",
+      "english": "capacity",
+      "chinese": "容量；能力",
+      "PofS": "n.",
+      "SYN": "volume; ability, capability"
+    },
+    {
+      "id": "43",
+      "english": "perform",
+      "chinese": "表演；執行",
+      "PofS": "v.",
+      "SYN": "do, carry out"
+    },
+    {
+      "id": "44",
+      "english": "performance",
+      "chinese": "表演；表現",
+      "PofS": "n."
+    },
+    {
+      "id": "45",
+      "english": "conclude",
+      "chinese": "下結論",
+      "PofS": "v."
+    },
+    {
+      "id": "46",
+      "english": "conclusion",
+      "chinese": "結論；結局",
+      "PofS": "n."
+    },
+    {
+      "id": "47",
+      "english": "humankind",
+      "chinese": "人類",
+      "PofS": "n.",
+      "SYN": "humans, human beings, the human race, mankind"
+    },
+    {
+      "id": "48",
+      "english": "conscious",
+      "chinese": "有知覺的；意識到的",
+      "PofS": "adj.",
+      "SYN": "aware"
+    },
+    {
+      "id": "49",
+      "english": "consciously",
+      "chinese": "有意識地；有自覺地",
+      "PofS": "adv.",
+      "ANT": "unconsciously"
+    },
+    {
+      "id": "50",
+      "english": "unconscious",
+      "chinese": "失去知覺的；未發覺的",
+      "PofS": "adj.",
+      "SYN": "senseless"
     }
   ],
   "4-2": [
